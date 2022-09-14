@@ -1,7 +1,8 @@
 ### Olá! Eu sou Filipe Silva 👋
 
 - 🔭 Hoje Trabalho com back-end
-- 🌱 Estudando C#,JavaScrypt
+- 🌱 Estudando JavaScrypt,PHP
+- Formações: C#
 
 <div align="center">
   <a href="https://github.com/filipeleasing">
