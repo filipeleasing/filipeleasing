@@ -1,9 +1,9 @@
-### Olá! Eu sou Filipe Silva 👋
+<h1>👋 <i>Olá! Eu sou Filipe Silva</i></h1>
 
 > 👨🏽‍🦱 Sobre :
-- 🔭 Hoje Trabalho com back-end
-- 🌱 Estudando : JavaScrypt, PHP
-- 🎓 Formações : C#
+> - 🔭 Hoje Trabalho com back-end
+> - 🌱 Estudando : JavaScrypt, PHP
+> - 🎓 Formações : C#
 
 <div align="center">
   <a href="https://github.com/filipeleasing">
