@@ -2,7 +2,7 @@
 
 > 👨🏽‍🦱 Sobre :
 > - 🔭 Hoje Trabalho com back-end
-> - 🌱 Estudando : HTML, PHP, JavaScrypt
+> - 🌱 Estudando : C++, HTML, PHP, JavaScrypt
 > - 🎓 Formações : C#
 
 <div align="center">
