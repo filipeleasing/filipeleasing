@@ -12,7 +12,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipe-csilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-csilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
- <img align="right" alt="Lipe-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/432013031606583306/1018724347722076170/8083256.png?width=676&height=676">
+<br>
+ <img align="right" alt="Lipe-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/769394667531534386/1078083434158772294/hero_12_img.png?width=676&height=676"><!--https://cdn.discordapp.com/attachments/432013031606583306/1018724347722076170/8083256.png-->
   <h2>Formações</h2>
   <img align="center" alt="Lipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <h2>Estudando</h2>
