@@ -42,7 +42,7 @@
  
  <h2>Contribuições</h2>
   
-  ![Snake animation](https://github.com/filipeleasing/filipeleasing/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/filipe-csilva/filipe-csilva/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
