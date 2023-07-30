@@ -1,10 +1,10 @@
 <h1>👋 <i>Olá! Eu sou Filipe Silva</i></h1>
 
-> - 🖥️ Cursando analise e desenvolvimento de sistemas - Estácio
+> - 🖥️ Cursando Analise e Desenvolvimento de Sistemas - Faculdade Estácio de Sá
 > - 💡 Acredito que com boas ideias e força de vontade é possível transformar o mundo.
-> - 🎓 Formações : C#
-> - 📚 Estudando : C++, HTML5, CSS, PHP, JavaScrypt
-> - ❤️ Codificação é minha paixão
+> - 🎓 Formações : C#, JavaScrypt
+> - 📚 Estudando : HTML5, CSS, Angular, PHP, JAVA, C++, MySQL, SQLServer
+> - ❤️ Codificação é uma paixão
 
 <h2>Status</h2>
 <div align="center" style="display: inline_block">
