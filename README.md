@@ -19,6 +19,7 @@
   <img align="center" alt="Lipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Lipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" alt="Lipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lipe-PHP" height="35" width="35" src="https://cdn.discordapp.com/attachments/432013031606583306/1018675277108363284/com_94184.ico">
 </div>
 <h2>Front-End</h2>
 <div style="display: inline_block">
@@ -30,7 +31,6 @@
   <!--<img align="center" alt="Lipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
   <!--<img align="center" alt="Lipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
   <img align="center" alt="Lipe-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Lipe-PHP" height="35" width="35" src="https://cdn.discordapp.com/attachments/432013031606583306/1018675277108363284/com_94184.ico">
   <img align="center" alt="Lipe-Java" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <!--<img align="center" alt="Lipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
   <img align="center" alt="Lipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
