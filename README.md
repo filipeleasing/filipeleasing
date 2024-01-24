@@ -3,7 +3,7 @@
 > - 🖥️ Cursando Analise e Desenvolvimento de Sistemas - Faculdade Estácio de Sá
 > - 💡 Acredito que com boas ideias e força de vontade é possível transformar o mundo.
 > - 🎓 Formações : C#
-> - 📚 Estudando :  Angular, PHP, JAVA, C++, MySQL, SQLServer
+> - 📚 Estudando : PHP, MySQL, SQLServer
 > - ❤️ Codificação é uma paixão
 
 <h2>Status</h2>
