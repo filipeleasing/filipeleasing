@@ -55,6 +55,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/filipe-csilva/filipe-csilva/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/filipe-csilva/filipe-csilva/output/github-contribution-grid-snake.svg">
   </picture>
+
+<h2>Selos</h2>
+<img align="center" height="70" width="70" src="https://camo.githubusercontent.com/f910e987102fa8a1445ef5aff07fea19faf852e83b2cd39fca93da45cfa950a1/68747470733a2f2f62616c7461696f2e626c6f622e636f72652e77696e646f77732e6e65742f74656d702f6361726e61636f64652d62616467652d6465736166696f2d30312e706e67">
  
 </div>
 
