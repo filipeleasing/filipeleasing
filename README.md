@@ -14,7 +14,7 @@
 </div>
 <br>
     
-<img align="right" alt="Lipe-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/769394667531534386/1078083434158772294/hero_12_img.png?ex=6632c470&is=66204f70&hm=57ccf002194906650ab4bd67c7bfa94bd8236ce434eb58c718a003702939c2de&?width=676&height=676">
+<img align="right" alt="Lipe-pic" height="150" style="border-radius:50px;" src="hero_12_img.png?width=676&height=676">
  
 ## Skills
 <div style="display: inline_block">
