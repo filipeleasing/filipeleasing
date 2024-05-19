@@ -14,7 +14,7 @@
 </div>
 <br>
     
-<img align="right" alt="Lipe-pic" height="150" style="border-radius:50px;" src="hero_12_img.png?width=676&height=676">
+<img align="right" alt="Lipe-pic" height="150" style="border-radius:50;" src="hero_12_img.png?width=676&height=676">
  
 ## Skills
 <div style="display: inline_block">
