@@ -1,3 +1,4 @@
+<div style="background-color: black; color: white; padding: 10;">
 # 👋 Olá! Eu sou Filipe Silva
 
 Sou um apaixonado por tecnologia, desenvolvedor em formação com foco em **C#**, **PHP**, e **bancos de dados** como **MySQL** e **SQL Server**. Sempre em busca de novos desafios e aprendizados, acredito que a codificação pode transformar ideias em realidades que impactam o mundo.
@@ -60,6 +61,7 @@ Sou um apaixonado por tecnologia, desenvolvedor em formação com foco em **C#**
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/filipe-csilva/filipe-csilva/output/github-contribution-grid-snake.svg">
   </picture>
  
+</div>
 </div>
 
 
