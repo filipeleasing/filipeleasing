@@ -1,10 +1,11 @@
-# 👋 <i>Olá! Eu sou Filipe Silva</i>
+# 👋 Olá! Eu sou Filipe Silva
 
-> - 🖥️ Cursando Analise e Desenvolvimento de Sistemas - Faculdade Estácio de Sá
-> - 💡 Acredito que com boas ideias e força de vontade é possível transformar o mundo.
-> - 🎓 Formações : C#
-> - 📚 Estudando : PHP, MySQL, SQLServer
-> - ❤️ Codificação é uma paixão
+Sou um apaixonado por tecnologia, desenvolvedor em formação com foco em **C#**, **PHP**, e **bancos de dados** como **MySQL** e **SQL Server**. Sempre em busca de novos desafios e aprendizados, acredito que a codificação pode transformar ideias em realidades que impactam o mundo.
+
+- 🖥️ Cursando Análise e Desenvolvimento de Sistemas - Estácio de Sá
+- 💡 Com boas ideias e dedicação, acredito que podemos transformar o mundo
+- 🎓 Certificado em C#
+- 📚 Atualmente estudando PHP, MySQL, SQL Server
 
 ## Status
 <div align="center" style="display: inline_block">
@@ -42,13 +43,14 @@
   <img align="center" alt="Lipe-MSqlServer" height="30" width="30" src="https://www.geekandjob.com/uploads/wiki/43b8c92d2a8fcd2a95ae6bf30c18494dae92467a.png">
 </div>-->
 <div> 
-  <h2>Contatos</h2>
+  <h2>💬 Onde me encontrar</h2>
   <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
   <a href="https://instagram.com/filipeleasing/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<!--<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
- <a href="https://discord.gg/FXjhvbCcrQ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/FXjhvbCcrQ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:filipepaulocs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/filipepaulocs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <p>Sinta-se à vontade para me contatar sobre oportunidades de desenvolvimento, colaboração em projetos ou para uma conversa sobre tecnologia!</p>
  
   <h2>Contribuições</h2>
   
