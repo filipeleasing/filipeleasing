@@ -1,5 +1,5 @@
 <div style="background-color: black; color: white; padding: 10;">
-## 👋 Olá! Eu sou Filipe Silva
+👋 Olá! Eu sou Filipe Silva
 
 Sou um apaixonado por tecnologia, desenvolvedor em formação com foco em **C#**, **PHP**, e **bancos de dados** como **MySQL** e **SQL Server**. Sempre em busca de novos desafios e aprendizados, acredito que a codificação pode transformar ideias em realidades que impactam o mundo.
 
