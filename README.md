@@ -5,8 +5,8 @@ Sou um apaixonado por tecnologia, desenvolvedor em formação com foco em **C#**
 
 - 🖥️ Cursando Análise e Desenvolvimento de Sistemas - Estácio de Sá
 - 💡 Com boas ideias e dedicação, acredito que podemos transformar o mundo
-- 🎓 Certificado em C#
-- 📚 Atualmente estudando PHP, MySQL, SQL Server
+- 🎓 Certificado em C#, SQL Server
+- 📚 Atualmente estudando PHP, MySQL
 
 ## Status
 <div align="center" style="display: inline_block">
